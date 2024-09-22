@@ -1,2 +1,4 @@
 # Rapid-Information-Retrieval-from-DNA-Storage-
- non sequencing, with multiplexed PCR
+ Can we retrieve data without any sequencing, and just with multiplexed PCR? 
+
+
