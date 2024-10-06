@@ -8,12 +8,12 @@
         <img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png" alt="Image 1" width="300">
         <figcaption>Caption for Image 1</figcaption>
     </figure>
-    
-    <figure>
-        <img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png" alt="Image 2" width="300">
-        <figcaption>Caption for Image 2</figcaption>
-    </figure>
 
+    <figure>
+        <img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA- 
+ Storage-/blob/main/excel_as_image3.png" alt="Image 1" width="300">
+        <figcaption>Caption for Image 1</figcaption>
+    </figure>
     <figure>
         <img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png" alt="Image 3" width="300">
         <figcaption>Caption for Image 3</figcaption>
