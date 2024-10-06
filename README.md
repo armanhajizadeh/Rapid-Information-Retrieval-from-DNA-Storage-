@@ -19,3 +19,17 @@
         <figcaption>Caption for Image 3</figcaption>
     </figure>
 </div>
+
+  <div id="banner">
+    <div class="inline-block">
+        <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
+    </div>
+
+    <div class="inline-block">
+        <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
+    </div>
+
+    <div class="inline-block">
+        <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
+    </div>
+</div>
