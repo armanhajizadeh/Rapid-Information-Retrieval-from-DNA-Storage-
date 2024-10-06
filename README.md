@@ -33,3 +33,19 @@
         <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
     </div>
 </div>
+
+
+
+<div id="banner" style="overflow: hidden; display: flex; justify-content:space-around;">
+        <div class="" style="max-width: 20%; max-height: 20%;">
+            <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
+        </div>
+
+        <div class="" style="max-width: 100%; max-height: 100%;">
+            <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
+        </div>
+
+        <div class="" style="max-width: 20%; max-height: 20%;">
+            <img src ="img3.jpg">
+        </div>
+    </div>
