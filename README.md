@@ -3,16 +3,5 @@
 
 <h1><img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png"
 ></h1>
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <figure>
-        <img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png" alt="Image 1" width="300">
-        <figcaption>Caption for Image 1</figcaption>
-    </figure>
-
-
-  <div id="banner">
-    <div class="inline-block">
-        <img src ="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/excel_as_image3.png">
-    </div>
 
 
