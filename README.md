@@ -6,4 +6,6 @@ The original image is from the childhood of Maryam Mirzakhani, the renowned Iran
 <h1><img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/Organdretrival-1.png"
 ></h1>
 
-You can access code shared in this repository.  
+You can access my programming I shared in this repository.  
+In the next step, I would like to try CNN Image Retrieval in PyTorch for training and evaluating CNNs for Image Retrieval in PyTorch inspired by Filip Radenovic
+working at MetaAI. 
