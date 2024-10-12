@@ -6,4 +6,4 @@ The original image is from the childhood of Maryam Mirzakhani, the renowned Iran
 <h1><img src="https://github.com/armanhajizadeh/Rapid-Information-Retrieval-from-DNA-Storage-/blob/main/Organdretrival-1.png"
 ></h1>
 
-
+You can access code shared in this repository.  
